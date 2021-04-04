@@ -2,7 +2,7 @@
 
 This codebase contains the python scripts for ASHA, the base model for Robust Suicide Risk Assessment on Social Media via Deep Adversarial Learning.
 
-Accepted at Journal of the American Medical Informatics Association ([paper coming soon!](#))
+Accepted at Journal of the American Medical Informatics Association ([paper](https://doi.org/10.1093/jamia/ocab031))
 
 ## Environment & Installation Steps
 
@@ -74,9 +74,21 @@ The assessments made by SISMO are sensitive and should be shared selectively and
 
 ## Cite
 
-If our work was helpful in your research, please kindly cite this work:
+If our work was helpful in your research, please kindly cite:
 
 ```
+@article{sawhney2021robust,
+  title={Robust suicide risk assessment on social media via deep adversarial learning},
+  author={Sawhney, Ramit and
+          Joshi, Harshit and
+          Gandhi, Saumya and
+          Jin, Di and
+          Shah, Rajiv Ratn},
+  journal={Journal of the American Medical Informatics Association},
+  year={2021},
+  doi={10.1093/jamia/ocab031}
+}
+
 @inproceedings{sawhney2021ordinal,
     author={Sawhney, Ramit  and
             Joshi, Harshit  and
